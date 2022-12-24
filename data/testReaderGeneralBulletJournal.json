@@ -1,0 +1,16 @@
+{"Bullet Journal": [
+  {
+    "journal": {"entry": "Today was a nice day."},
+    "todo list": [{"tasks": [{
+      "description": "Math HW",
+      "deadline": "November 10"
+    }]}]
+  },
+  {
+    "journal": {"entry": "I finished all my homework today!"},
+    "todo list": [{"tasks": [{
+      "description": "English Reading",
+      "deadline": "November 23"
+    }]}]
+  }
+]}
